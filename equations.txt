@@ -1,0 +1,4 @@
+﻿"whitekey_cutout_length"= 101.5
+"mount_recess_length"=50
+"mount_recess_height"=12.5
+"mount_recess_depth"=1.5
