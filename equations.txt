@@ -2,4 +2,5 @@
 "mount_recess_length"=50
 "mount_recess_height"=12.5
 "mount_recess_depth"=1.5
-"wall_thickness"=8
+"wall_thickness"=8"dowel_recess_offset"=2.5
+"base_mount_height"=35"base_rear_length"=80
