@@ -1,6 +1,16 @@
-﻿"whitekey_cutout_length"= 101.5
-"mount_recess_length"=50
-"mount_recess_height"=12.5
-"mount_recess_depth"=1.5
-"wall_thickness"=8"dowel_recess_offset"=2.5
-"base_mount_height"=35"base_rear_length"=80
+﻿"whitekey_cutout_length"= 101.5"key_mount_recess_length"=50"key_mount_recess_height"=12.5"key_mount_recess_depth"=1.5
+"wall_thickness"=10
+"guide_brace_height"=20
+"guide_brace_thickness"=2
+"dowel_recess_depth"=9
+"dowel_recess_offset"=3
+"base_mount_height"=40
+"base_rear_length"=80
+"base_front_length"=111.5
+"screw_hole_wall_offset"=7.25
+"screw_hole_edge_inset"=4.5
+"screw_hole_diameter"=3.8
+"screw_head_hole_diameter"=6.7
+"screw_nut_hole_side_len"=3.5
+"screw_shaft_diameter"=3.5
+"switch_board_width"=30"heatset_insert_hole_diameter"=4.8"heatset_insert_hole_depth"=3.8
