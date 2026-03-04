@@ -22,7 +22,7 @@
 "switch_board_wall_offset"=11.5
 "heatset_insert_hole_diameter"=4.8
 "heatset_insert_hole_depth"=3.8
-"front_rear_panel_width"=23.75"front_panel_height"=24"rod_diameter"=5"rod_head_diameter"=8
+"front_rear_panel_width"=23.75"front_panel_height"=24"front_rear_panel_recess_depth"=5"rod_diameter"=5"rod_head_diameter"=8
 "rod_length_adj"=0.5
 "rod_insert_length"=2.8
 "switch_black_key_mount_height"=8"switch_white_key_mount_height"=3
