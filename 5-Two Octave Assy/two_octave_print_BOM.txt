@@ -1,0 +1,27 @@
+Keys
+- A_key: 2
+- B_key: 2
+- C_key: 2
+- D_key: 2
+- E_key: 2
+- F_key: 2
+- G_key: 2
+- C_end: 1
+- black_key: 10
+
+
+Subassy:
+- FGAB_rod: 2
+- FGAB_mount_assem: 2
+- CDE_rod: 2
+- CDE_mount_assem: 2
+- C_end_rod: 1
+- C_end_mount_assem: 1
+
+
+Panels:
+- left_base_panel: 1
+- right_base_panel: 1
+- front_panel_segment_male: 8
+- front_panel_segment_female: 7
+
