@@ -1,4 +1,4 @@
-﻿"whitekey_cutout_length"= 101.5
+﻿"whitekey_cutout_length"= 101.5"whitekey_spacing"=1.25
 "key_mount_recess_length"=50
 "key_mount_recess_height"=12.5
 "key_mount_recess_depth"=1.5
@@ -6,7 +6,8 @@
 "guide_brace_height"=20
 "guide_brace_thickness"=2
 "dowel_recess_depth"=10
-"dowel_recess_offset"=3.25"dowel_insert_tolerance"=0.1
+"dowel_recess_offset"=3.25
+"dowel_insert_tolerance"=0.1
 "base_mount_height"=40
 "base_rear_length"=80
 "base_front_length"=111.5
@@ -18,11 +19,18 @@
 "screw_nut_recess_offset"=0.35
 "screw_head_and_nut_recess_depth"=2.5
 "screw_shaft_diameter"=3.5
-"switch_board_width"=30"switch_board_thickness"=1.6
+"switch_board_width"=30
+"switch_board_thickness"=1.6
 "switch_board_wall_offset"=11.5
 "heatset_insert_hole_diameter"=4.8
 "heatset_insert_hole_depth"=3.8
-"front_rear_panel_width"=23.75"front_panel_height"=24"front_rear_panel_recess_depth"=5"rod_diameter"=5"rod_head_diameter"=8
+"front_rear_panel_width"=23.75
+"front_panel_height"=24
+"front_rear_panel_recess_depth"=5
+"rod_diameter"=5
+"rod_head_diameter"=8
 "rod_length_adj"=0.5
 "rod_insert_length"=2.8
-"switch_black_key_mount_height"=8"switch_white_key_mount_height"=3
+"switch_black_key_mount_height"=8
+"switch_white_key_mount_height"=3
+"side_panel_depth"=25
