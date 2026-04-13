@@ -37,4 +37,5 @@
 "side_panel_depth"=35
 "interface_panel_height"=135
 "interface_panel_roof_length"=50
-"rear_center_panel_height_adjust"=50
+"rear_center_panel_height_adjust"=50
+"usbc_cutout_offset"=0.1
